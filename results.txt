@@ -1,0 +1,717 @@
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.5403333333333333 	0.7040669166666667 	0.6651791041666667 	0.82637925 	0.791653375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.816 	0.7804218125 	0.7597094583333333 	0.82637925 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.8565 	0.8104814166666665 	0.780949 	0.82637925 	0.7916533749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.874 	0.8512632083333334 	0.8235042291666665 	0.82637925 	0.7916533749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.8951666666666667 	0.8359227708333334 	0.8232895416666667 	0.82637925 	0.791653375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.8838333333333334 	0.82924025 	0.8101155833333333 	0.8263792083333332 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.8856666666666667 	0.8546062083333332 	0.8338667708333334 	0.8263792083333332 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.8921666666666667 	0.864978625 	0.8412304166666666 	0.82637925 	0.7916532916666668 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9061666666666667 	0.8432362291666667 	0.8331957291666667 	0.82637925 	0.7916534166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9123333333333333 	0.8634869166666667 	0.8523745208333333 	0.82637925 	0.7916532916666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9063333333333333 	0.8681546250000001 	0.8510059583333334 	0.82637925 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9083333333333333 	0.8684796875 	0.8566326666666666 	0.82637925 	0.7916532916666665 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9088333333333334 	0.8745552916666666 	0.8552720000000001 	0.8263792083333332 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9188333333333333 	0.8881368958333334 	0.8683276875000001 	0.8263792083333332 	0.7916532916666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9175 	0.8564306458333333 	0.8431984791666667 	0.8263792916666667 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9131666666666667 	0.8636097291666667 	0.8488042291666666 	0.82637925 	0.7916532916666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9191666666666667 	0.8990450416666667 	0.8784664166666667 	0.82637925 	0.7916533333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9283333333333333 	0.900374375 	0.8804681875 	0.8263792083333332 	0.7916533749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.9288333333333333 	0.9081284374999999 	0.8912748333333333 	0.8263792083333332 	0.7916532916666668 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.933 	0.905255875 	0.8848030208333333 	0.82637925 	0.791653375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.859 	0.933 	0.905255875 	0.8848030208333333 	0.8263792083333332 	0.7916534166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.17666666666666667 	0.6281626875 	0.6292296041666666 	0.8205630833333333 	0.8007015 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.24083333333333334 	0.5735915416666667 	0.532114375 	0.8205631458333333 	0.8007015416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23616666666666666 	0.6228372291666666 	0.5328988749999999 	0.8205631250000001 	0.8007016874999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23283333333333334 	0.5579267083333332 	0.5097016458333333 	0.8205631666666666 	0.8007015208333335 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.2575 	0.6032164375 	0.5584423958333333 	0.8205630833333333 	0.8007016666666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.2245 	0.6476664166666667 	0.6138964583333333 	0.8205630625 	0.8007015208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.22833333333333333 	0.5672720625000001 	0.5582439374999999 	0.8205631458333333 	0.8007016250000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.21066666666666667 	0.5846587708333334 	0.5453130208333333 	0.8205631875 	0.8007015000000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23566666666666666 	0.603661 	0.5690182916666666 	0.8205630833333333 	0.8007015625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.21016666666666667 	0.5732674583333334 	0.5812065208333334 	0.8205630416666667 	0.8007015833333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23416666666666666 	0.5656853125 	0.5793251458333333 	0.8205630833333333 	0.8007015625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.22366666666666668 	0.5769352083333333 	0.5526124791666667 	0.8205630625 	0.8007015208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.2825 	0.5989879166666666 	0.5623690208333334 	0.8205630833333333 	0.8007015416666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23566666666666666 	0.5663307291666667 	0.5479968333333334 	0.8205631250000001 	0.800701625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8695 	0.23566666666666666 	0.5663304166666666 	0.5479974583333334 	0.8205631250000001 	0.8007014583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8666666666666667 	0.8011136666666667 	0.787147625 	0.8462412708333333 	0.807677375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8713333333333333 	0.7877877708333334 	0.7850368333333333 	0.8462412916666666 	0.8076774583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8748333333333334 	0.7873827291666666 	0.7805576875 	0.8462412708333333 	0.8076774375000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.871 	0.7758262083333334 	0.7795431041666667 	0.84624125 	0.8076774166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.17733333333333334 	0.5040487916666666 	0.5200800624999999 	0.8462412916666666 	0.8076773958333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.47783333333333333 	0.4891838125 	0.4708009791666667 	0.8462412916666666 	0.8076774375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8195 	0.8068529375 	0.7800293125 	0.8462412083333333 	0.8076774166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8693333333333333 	0.8435851666666667 	0.8100185416666668 	0.84624125 	0.8076773958333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.881 	0.8713705208333332 	0.8378522916666666 	0.8462412708333333 	0.8076773958333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8946666666666667 	0.8723794375 	0.8372683750000001 	0.8462412916666666 	0.807677375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.8946666666666667 	0.8787248541666666 	0.8478877291666667 	0.84624125 	0.8076774375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9073333333333333 	0.86653875 	0.8459758125000001 	0.8462412291666666 	0.8076774583333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9053333333333333 	0.863349375 	0.8408955625 	0.8462412083333333 	0.8076774166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9093333333333333 	0.8968835625 	0.8748882291666666 	0.84624125 	0.8076774166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9106666666666666 	0.9018527916666667 	0.8752406666666668 	0.8462412291666666 	0.8076774791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9123333333333333 	0.8853105416666667 	0.8682547708333334 	0.84624125 	0.8076773958333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9196666666666666 	0.8905622916666667 	0.8702960625000001 	0.8462412291666666 	0.8076774166666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9196666666666666 	0.889413625 	0.8767899583333334 	0.84624125 	0.8076775 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8726666666666667 	0.9195 	0.891403125 	0.8759673125 	0.8462412708333333 	0.8076774375000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.6526666666666666 	0.6736175833333333 	0.6200927708333333 	0.8321542291666666 	0.8057894583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.8698333333333333 	0.7816477916666666 	0.7591800625 	0.8321542708333334 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9031666666666667 	0.8328171666666667 	0.8110065624999999 	0.83215425 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9196666666666666 	0.8396697291666668 	0.8303625208333334 	0.8321542708333334 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9338333333333333 	0.83067425 	0.8358561041666667 	0.8321542708333334 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9303333333333333 	0.8381773333333333 	0.8258619166666665 	0.8321542708333334 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9401666666666667 	0.8494148750000001 	0.8433473333333334 	0.8321542916666667 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9508333333333333 	0.8631942083333335 	0.85659 	0.8321542291666666 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.943 	0.8565161875 	0.8575325833333332 	0.8321542500000001 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9526666666666667 	0.8782439791666667 	0.8660189375 	0.8321542291666666 	0.8057894999999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9603333333333334 	0.8820369375 	0.8763544375 	0.8321542916666667 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9585 	0.8946093749999999 	0.8830806666666667 	0.8321542291666667 	0.8057894791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9631666666666666 	0.8914174374999999 	0.8812127708333333 	0.8321542916666667 	0.8057894999999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9231666666666667 	0.9631666666666666 	0.8914174374999999 	0.8812127708333333 	0.8321542500000001 	0.8057894999999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9115 	0.13833333333333334 	0.478258375 	0.4816621875 	0.7875409583333334 	0.7942172083333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9025 	0.15433333333333332 	0.5473979999999999 	0.44232293749999996 	0.8027298958333333 	0.7738863750000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9006666666666666 	0.15466666666666667 	0.5665027083333334 	0.41168620833333336 	0.7832378125 	0.7683865208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9141666666666667 	0.19333333333333333 	0.5757090416666667 	0.4825990416666667 	0.8123254583333334 	0.7925921041666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9325 	0.20383333333333334 	0.49867477083333334 	0.4945052291666666 	0.8432409375 	0.8245745625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9348333333333333 	0.209 	0.4882275416666667 	0.4971500208333333 	0.8445247291666668 	0.8314048333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9246666666666666 	0.2145 	0.4660603333333333 	0.4656851458333333 	0.8088777291666667 	0.8088456875000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9311666666666667 	0.17366666666666666 	0.45374506249999996 	0.45217054166666665 	0.8463514999999999 	0.8420200208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9438333333333333 	0.19966666666666666 	0.4740298125 	0.4820619375 	0.8307059374999999 	0.830769375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9426666666666667 	0.20966666666666667 	0.48137291666666665 	0.49427875 	0.8572992083333333 	0.8482229375000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9445 	0.21616666666666667 	0.5434117500000001 	0.5296893333333333 	0.8228499999999999 	0.8367835625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.19383333333333333 	0.48107164583333334 	0.4755855625 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.17733333333333334 	0.47914495833333326 	0.4768545625 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.16566666666666666 	0.49352702083333333 	0.5020962083333333 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.16516666666666666 	0.45933589583333334 	0.462989125 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.2095 	0.5278975 	0.5838678333333334 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.16666666666666666 	0.37597654166666666 	0.4144198958333333 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9385 	0.6955150833333332 	0.6973841875 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.7506666666666667 	0.5594875625 	0.532925 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9363333333333334 	0.6123925833333334 	0.6244977083333333 	0.8435735625 	0.8481129791666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9066666666666666 	0.5817120416666667 	0.5745360833333334 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.8641666666666666 	0.6044036875000001 	0.5940583958333334 	0.8435735624999999 	0.8481130416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9353333333333333 	0.6490681041666666 	0.6631279791666665 	0.8435735625 	0.8481129791666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9403333333333334 	0.7125969375 	0.7208841041666667 	0.8435735208333333 	0.8481129375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9448333333333333 	0.9248333333333333 	0.6974649583333332 	0.7007223124999999 	0.8435735625 	0.8481130625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9283333333333333 	0.9198333333333333 	0.7676576458333334 	0.7558345833333333 	0.8226835833333334 	0.8014211875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9283333333333333 	0.9285 	0.7821837083333333 	0.7870048958333333 	0.8226836041666667 	0.8014211875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9283333333333333 	0.9278333333333333 	0.7809352916666666 	0.7859821875 	0.8226836041666667 	0.8014211875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.1115 	0.4036666666666667 	0.5366231875 	0.5237622916666667 	0.49612993749999995 	0.49748437500000003 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.1115 	0.5526666666666666 	0.5691122083333333 	0.5685085833333334 	0.49612993750000006 	0.497484375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.1115 	0.6955 	0.6496576875 	0.6322500208333333 	0.4961299791666666 	0.49748414583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.36516666666666664 	0.4808501458333334 	0.4821547291666667 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.5276666666666666 	0.5351492499999999 	0.5274256041666667 	0.659377125 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.5651666666666667 	0.5386616458333333 	0.53675875 	0.6593771458333333 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6071666666666666 	0.5576957499999999 	0.5522382708333333 	0.6593771458333333 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6278333333333334 	0.5613456458333334 	0.5524698333333333 	0.659377125 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6251666666666666 	0.5183067291666666 	0.5222786458333333 	0.6593771666666667 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.648 	0.5297624166666666 	0.5323116666666667 	0.6593771458333333 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6736666666666666 	0.5502411666666667 	0.5461072083333334 	0.659377125 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6816666666666666 	0.5566322083333333 	0.5572925833333333 	0.6593771666666668 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.698 	0.5521286666666666 	0.5529598958333333 	0.659377125 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6906666666666667 	0.5562656875 	0.5538679791666667 	0.6593771666666667 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.691 	0.5365554791666667 	0.5413728124999999 	0.6593771458333333 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.714 	0.5784607916666668 	0.5760235 	0.6593772083333334 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7375 	0.5822254791666667 	0.5836311458333333 	0.6593771666666668 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7291666666666666 	0.5771607083333333 	0.5780408541666666 	0.6593771666666668 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.752 	0.5849859583333333 	0.5778264791666666 	0.6593771875000001 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7531666666666667 	0.6025626875000001 	0.5990270833333333 	0.6593771666666668 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7733333333333333 	0.6109737708333334 	0.5981118541666667 	0.6593771458333333 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7625 	0.5974457916666667 	0.594224875 	0.659377125 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7773333333333333 	0.6207901666666666 	0.6171299583333334 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7898333333333334 	0.6216508541666668 	0.6153211041666666 	0.6593771666666667 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7853333333333333 	0.6321288541666666 	0.6284983958333334 	0.6593771458333334 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7998333333333333 	0.6425496041666666 	0.6337215833333334 	0.6593772083333334 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7931666666666667 	0.6281439375 	0.6308785833333332 	0.6593771875 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7981666666666667 	0.6382478958333333 	0.6230635833333333 	0.6593771666666667 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8115 	0.6515449375 	0.6375482708333333 	0.6593771666666667 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.3555 	0.5230839166666666 	0.5227053125 	0.659377125 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.4995 	0.5205860416666667 	0.5243624583333333 	0.6593771875000001 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.5626666666666666 	0.5209765 	0.5167199791666667 	0.6593771666666668 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.595 	0.5306892291666667 	0.5228675625 	0.659377125 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6243333333333333 	0.5522926875 	0.5361071458333333 	0.6593771666666668 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6408333333333334 	0.5597893125 	0.5447966875 	0.6593771875000001 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6601666666666667 	0.5542893541666667 	0.5398178541666666 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6833333333333333 	0.5682763958333333 	0.5558206666666667 	0.659377125 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7056666666666667 	0.5817044583333333 	0.5625401875 	0.6593771666666668 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7016666666666667 	0.5588064583333332 	0.5444519999999999 	0.659377125 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.326 	0.46406125 	0.4699498541666667 	0.659377125 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.5026666666666667 	0.5014521875 	0.4885755625 	0.6593771875000001 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.5683333333333334 	0.5132254166666667 	0.5019085833333333 	0.6593771666666668 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6073333333333333 	0.5359116875000001 	0.5129192291666667 	0.659377125 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6253333333333333 	0.5282325833333332 	0.5167529166666667 	0.6593771666666668 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6478333333333334 	0.5212246041666666 	0.5180828125 	0.6593771875000001 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.655 	0.5338042916666667 	0.5249390208333333 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6726666666666666 	0.5228304166666666 	0.5141097291666666 	0.659377125 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6865 	0.541970875 	0.530916375 	0.6593771666666668 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.6958333333333333 	0.5328720833333334 	0.5250480625 	0.659377125 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7025 	0.5691360625 	0.5526441666666667 	0.6593771458333334 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7153333333333334 	0.5496314166666667 	0.5459405416666667 	0.6593771875 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7208333333333333 	0.5613616458333334 	0.5552010624999999 	0.6593771666666667 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7301666666666666 	0.5680269791666666 	0.5646539583333333 	0.6593771666666668 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7385 	0.5644361874999999 	0.5669097291666666 	0.6593771666666668 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7413333333333333 	0.5911454375 	0.5899565208333334 	0.659377125 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7431666666666666 	0.5580158749999999 	0.5776155624999999 	0.659377125 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7615 	0.5978888125 	0.5921763541666667 	0.6593771458333334 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7561666666666667 	0.5774334791666667 	0.5861310208333332 	0.659377125 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.756 	0.5642749583333333 	0.5824063333333334 	0.6593771875 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7773333333333333 	0.5911209583333333 	0.6023484583333334 	0.6593771875 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7773333333333333 	0.584227625 	0.5936010416666667 	0.6593771666666668 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7796666666666666 	0.59741675 	0.5972150833333334 	0.6593771458333334 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7815 	0.5853301875000001 	0.5962383958333333 	0.6593771458333333 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7846666666666666 	0.5823949791666667 	0.59717775 	0.6593771875 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8 	0.6001336666666667 	0.6124350625 	0.659377125 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7926666666666666 	0.5911899166666666 	0.5999014791666666 	0.659377125 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.7915 	0.610554375 	0.6201064791666666 	0.659377125 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.807 	0.6292809791666667 	0.6261432083333334 	0.6593771666666667 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8013333333333333 	0.5993734374999999 	0.6119843541666666 	0.6593771458333333 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.813 	0.6205749166666666 	0.6229516041666667 	0.6593771666666667 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8143333333333334 	0.6042188333333333 	0.6102312708333334 	0.6593771875000001 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8231666666666667 	0.6119322916666666 	0.6251530833333333 	0.6593771666666667 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8243333333333334 	0.615706625 	0.6270847500000001 	0.6593771666666667 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8295 	0.6419603958333334 	0.6374723958333334 	0.659377125 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8316666666666667 	0.6324510208333333 	0.631476125 	0.6593771666666668 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8386666666666667 	0.634066 	0.6435463125 	0.659377125 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8343333333333334 	0.6333173333333334 	0.64100325 	0.6593772083333334 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.837 	0.6513198333333333 	0.646644875 	0.6593771666666667 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8405 	0.6399672708333333 	0.6419903124999999 	0.6593771666666667 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8398333333333333 	0.6499167916666667 	0.6493389583333333 	0.6593771666666667 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8416666666666667 	0.666501 	0.6628065625 	0.6593771458333333 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8365 	0.6468012083333334 	0.6450635416666667 	0.659377125 	0.6841823333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8461666666666666 	0.6609025208333333 	0.65580275 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8515 	0.6440685833333333 	0.6557462083333333 	0.659377125 	0.684182375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8476666666666667 	0.6471505833333333 	0.662962375 	0.659377125 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8551666666666666 	0.6652456666666666 	0.6641304791666667 	0.6593771458333333 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8573333333333333 	0.6490502916666667 	0.6601073749999999 	0.6593772083333334 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8533333333333334 	0.669384625 	0.666093625 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8565 	0.6601725 	0.6705216875 	0.6593771666666667 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8511666666666666 	0.6743601874999999 	0.6731601250000001 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8568333333333333 	0.6764266666666666 	0.6744435 	0.6593771666666667 	0.6841823125000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8608333333333333 	0.6746958541666666 	0.674585 	0.659377125 	0.6841823541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8596666666666667 	0.6752383333333334 	0.6784028333333334 	0.6593771666666668 	0.6841822916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8633333333333333 	0.6717631875 	0.6716442083333334 	0.6593771458333334 	0.6841823333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8613333333333333 	0.6797655 	0.6794931666666666 	0.659377125 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.861 	0.6849311041666666 	0.6762185416666666 	0.6593771875000001 	0.6841823125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8618333333333333 	0.6799003958333334 	0.6789102291666667 	0.6593771458333334 	0.6841823541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.897 	0.8618333333333333 	0.6799004791666666 	0.6789104583333333 	0.6593771666666668 	0.6841823333333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.41083333333333333 	0.41083333333333333 	0.5208023541666666 	0.5487852708333334 	0.5208023541666666 	0.5487852708333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.41083333333333333 	0.41083333333333333 	0.5208026458333334 	0.5487852708333334 	0.5208026458333334 	0.5487852708333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.38966666666666666 	0.38966666666666666 	0.5451775416666667 	0.5705515 	0.5451775416666667 	0.5705515 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.5301666666666667 	0.5301666666666667 	0.6297397291666667 	0.6568295833333333 	0.6297397291666667 	0.6568295833333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.5878333333333333 	0.5878333333333333 	0.6528439791666667 	0.6703378124999999 	0.6528439791666667 	0.6703378124999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.6216666666666667 	0.6216666666666667 	0.6573600833333333 	0.6620358958333333 	0.6573600833333333 	0.6620358958333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.644 	0.644 	0.6446663125000001 	0.6514739166666667 	0.6446663125000001 	0.6514739166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.662 	0.662 	0.6428576041666666 	0.64780375 	0.6428576041666666 	0.64780375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.6795 	0.6795 	0.6431750208333333 	0.6523684583333333 	0.6431750208333333 	0.6523684583333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.6836666666666666 	0.6836666666666666 	0.6641310625000001 	0.6547441875 	0.6641310625000001 	0.6547441875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7053333333333334 	0.7053333333333334 	0.6706437916666667 	0.6571352708333333 	0.6706437916666667 	0.6571352708333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7141666666666666 	0.7141666666666666 	0.6511800416666667 	0.6606857291666667 	0.6511800416666667 	0.6606857291666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7246666666666667 	0.7246666666666667 	0.6702628125000001 	0.664245125 	0.6702628125000001 	0.664245125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7336666666666667 	0.7336666666666667 	0.6603372083333334 	0.6543845208333333 	0.6603372083333334 	0.6543845208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7461666666666666 	0.7461666666666666 	0.6741347916666667 	0.6614777708333333 	0.6741347916666667 	0.6614777708333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7571666666666667 	0.7571666666666667 	0.668689 	0.6799216875 	0.668689 	0.6799216875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7655 	0.7655 	0.6763650625000001 	0.6747451458333333 	0.6763650625000001 	0.6747451458333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7728333333333334 	0.7728333333333334 	0.6911611666666667 	0.6848431875000001 	0.6911611666666667 	0.6848431875000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7708333333333334 	0.7708333333333334 	0.680614 	0.6838682291666667 	0.680614 	0.6838682291666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7775 	0.7775 	0.6807173124999999 	0.6899922708333333 	0.6807173124999999 	0.6899922708333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7796666666666666 	0.7796666666666666 	0.69930625 	0.6906977291666667 	0.69930625 	0.6906977291666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7856666666666666 	0.7856666666666666 	0.7071753541666665 	0.6958038958333332 	0.7071753541666665 	0.6958038958333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7955 	0.7955 	0.7048129375000001 	0.7003492916666667 	0.7048129375000001 	0.7003492916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.794 	0.794 	0.6973131666666667 	0.6976530000000001 	0.6973131666666667 	0.6976530000000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7988333333333333 	0.7988333333333333 	0.6990514999999999 	0.6951902291666667 	0.6990514999999999 	0.6951902291666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8003333333333333 	0.8003333333333333 	0.714109 	0.7128075416666667 	0.714109 	0.7128075416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8028333333333333 	0.8028333333333333 	0.7142621458333334 	0.7048165416666667 	0.7142621458333334 	0.7048165416666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.809 	0.809 	0.7081739583333334 	0.7111225 	0.7081739583333334 	0.7111225 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8095 	0.8095 	0.7102662083333334 	0.7110163541666666 	0.7102662083333334 	0.7110163541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8143333333333334 	0.8143333333333334 	0.714124625 	0.7161827291666667 	0.714124625 	0.7161827291666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8168333333333333 	0.8168333333333333 	0.7127508541666667 	0.7136628541666666 	0.7127508541666667 	0.7136628541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8193333333333334 	0.8193333333333334 	0.7245015625 	0.7104834166666667 	0.7245015625 	0.7104834166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.823 	0.823 	0.7275015208333334 	0.7196045208333334 	0.7275015208333334 	0.7196045208333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8215 	0.8215 	0.7280708333333332 	0.7214496666666668 	0.7280708333333332 	0.7214496666666668 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8221666666666667 	0.8221666666666667 	0.7327345000000001 	0.7272140208333334 	0.7327345000000001 	0.7272140208333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8275 	0.8275 	0.7298361666666666 	0.7208499791666667 	0.7298361666666666 	0.7208499791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8281666666666667 	0.8281666666666667 	0.7437477708333333 	0.7268509583333334 	0.7437477708333333 	0.7268509583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8341666666666666 	0.8341666666666666 	0.732819 	0.7221152708333333 	0.732819 	0.7221152708333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8333333333333334 	0.8333333333333334 	0.7521429166666667 	0.7330204791666666 	0.7521429166666667 	0.7330204791666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8311666666666667 	0.8311666666666667 	0.7449233958333332 	0.7398987083333333 	0.7449233958333332 	0.7398987083333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.834 	0.834 	0.7370496666666666 	0.7278490624999999 	0.7370496666666666 	0.7278490624999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8351666666666666 	0.8351666666666666 	0.7406125416666667 	0.7358529166666666 	0.7406125416666667 	0.7358529166666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8368333333333333 	0.8368333333333333 	0.7419375833333333 	0.7324545833333334 	0.7419375833333333 	0.7324545833333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8398333333333333 	0.8398333333333333 	0.7440512083333334 	0.7327907708333332 	0.7440512083333334 	0.7327907708333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8393333333333334 	0.8393333333333334 	0.7431934583333334 	0.7301335624999999 	0.7431934583333334 	0.7301335624999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.84 	0.84 	0.7489788333333334 	0.7316179791666666 	0.7489788333333334 	0.7316179791666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8426666666666667 	0.8426666666666667 	0.7303502500000001 	0.7231623541666667 	0.7303502500000001 	0.7231623541666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8431666666666666 	0.8431666666666666 	0.7573537291666667 	0.7374117291666666 	0.7573537291666667 	0.7374117291666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8468333333333333 	0.8468333333333333 	0.7451859583333335 	0.7320043749999999 	0.7451859583333335 	0.7320043749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8501666666666666 	0.8501666666666666 	0.7479581249999999 	0.7351175208333334 	0.7479581249999999 	0.7351175208333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8505 	0.8505 	0.7496176666666667 	0.7337500833333332 	0.7496176666666667 	0.7337500833333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8473333333333334 	0.8473333333333334 	0.7425831041666666 	0.7267512083333334 	0.7425831041666666 	0.7267512083333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8511666666666666 	0.8511666666666666 	0.7392021875000001 	0.726719 	0.7392021875000001 	0.726719 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.846 	0.846 	0.75401575 	0.7380604166666668 	0.75401575 	0.7380604166666668 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8545 	0.8545 	0.7521642291666667 	0.7362025 	0.7521642291666667 	0.7362025 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.854 	0.854 	0.7491643541666667 	0.7365720208333333 	0.7491643541666667 	0.7365720208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8566666666666667 	0.8566666666666667 	0.7517636666666666 	0.7374568749999999 	0.7517636666666666 	0.7374568749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8558333333333333 	0.8558333333333333 	0.7619651458333334 	0.7520223749999999 	0.7619651458333334 	0.7520223749999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.856 	0.856 	0.7590529166666666 	0.7488868333333334 	0.7590529166666666 	0.7488868333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8595 	0.8595 	0.7551185833333334 	0.7355163125 	0.7551185833333334 	0.7355163125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8596666666666667 	0.8596666666666667 	0.7671848124999999 	0.742477625 	0.7671848124999999 	0.742477625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8658333333333333 	0.8658333333333333 	0.7557933958333333 	0.7455518958333334 	0.7557933958333333 	0.7455518958333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8631666666666666 	0.8631666666666666 	0.7617814583333333 	0.7437615416666666 	0.7617814583333333 	0.7437615416666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8671666666666666 	0.8671666666666666 	0.7479058541666668 	0.7339335208333333 	0.7479058541666668 	0.7339335208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8631666666666666 	0.8631666666666666 	0.7678536041666667 	0.7475651666666667 	0.7678536041666667 	0.7475651666666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8575 	0.8575 	0.7537142291666666 	0.7312370208333334 	0.7537142291666666 	0.7312370208333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8691666666666666 	0.8691666666666666 	0.7550477916666667 	0.7301562083333333 	0.7550477916666667 	0.7301562083333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8703333333333333 	0.8703333333333333 	0.7661415833333334 	0.7430466875 	0.7661415833333334 	0.7430466875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8671666666666666 	0.8671666666666666 	0.7640382291666667 	0.7445795624999999 	0.7640382291666667 	0.7445795624999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8613333333333333 	0.8613333333333333 	0.7686198750000001 	0.7467529583333332 	0.7686198750000001 	0.7467529583333332 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8613333333333333 	0.8613333333333333 	0.7686199166666667 	0.7467530833333333 	0.7686199166666667 	0.7467530833333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.545 	0.545 	0.5932424166666668 	0.6205591458333333 	0.5932424166666668 	0.6205591458333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.6756666666666666 	0.6756666666666666 	0.6622811666666667 	0.6546711875 	0.6622811666666667 	0.6546711875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7395 	0.7395 	0.6623756458333334 	0.6564623125 	0.6623756458333334 	0.6564623125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.781 	0.781 	0.7042802916666666 	0.69210175 	0.7042802916666666 	0.69210175 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.7996666666666666 	0.7996666666666666 	0.716832625 	0.7077461458333333 	0.716832625 	0.7077461458333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8215 	0.8215 	0.7193889583333334 	0.7017858333333333 	0.7193889583333334 	0.7017858333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8333333333333334 	0.8333333333333334 	0.7411392083333334 	0.7219831875 	0.7411392083333334 	0.7219831875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8385 	0.8385 	0.7462082916666668 	0.7271427708333333 	0.7462082916666668 	0.7271427708333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8463333333333334 	0.8463333333333334 	0.750609125 	0.7380471666666667 	0.750609125 	0.7380471666666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8483333333333334 	0.8483333333333334 	0.7451566041666667 	0.7313166458333333 	0.7451566041666667 	0.7313166458333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.858 	0.858 	0.759537125 	0.7395701041666667 	0.759537125 	0.7395701041666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8636666666666667 	0.8636666666666667 	0.7550173541666666 	0.7454741874999999 	0.7550173541666666 	0.7454741874999999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8725 	0.8725 	0.7585080416666666 	0.7481648333333333 	0.7585080416666666 	0.7481648333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8698333333333333 	0.8698333333333333 	0.76982325 	0.7535184375 	0.76982325 	0.7535184375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8805 	0.8805 	0.7689463333333333 	0.7600514166666666 	0.7689463333333333 	0.7600514166666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8791666666666667 	0.8791666666666667 	0.7743696666666667 	0.7557734791666667 	0.7743696666666667 	0.7557734791666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8826666666666667 	0.8826666666666667 	0.7797565208333334 	0.7671728125 	0.7797565208333334 	0.7671728125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8908333333333334 	0.8908333333333334 	0.7858253333333334 	0.7708928541666666 	0.7858253333333334 	0.7708928541666666 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8946666666666667 	0.8946666666666667 	0.7785123958333333 	0.7686647916666667 	0.7785123958333333 	0.7686647916666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9025 	0.9025 	0.7921654166666667 	0.781693875 	0.7921654166666667 	0.781693875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.8993333333333333 	0.8993333333333333 	0.7972430416666667 	0.7879446250000001 	0.7972430416666667 	0.7879446250000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9036666666666666 	0.9036666666666666 	0.7956363125 	0.7871083333333333 	0.7956363125 	0.7871083333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9065 	0.9065 	0.7819792916666666 	0.7690856041666667 	0.7819792916666666 	0.7690856041666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9091666666666667 	0.9091666666666667 	0.7979175000000001 	0.7902589375 	0.7979175000000001 	0.7902589375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9133333333333333 	0.9133333333333333 	0.788573625 	0.7786579166666667 	0.788573625 	0.7786579166666667 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9096666666666666 	0.9096666666666666 	0.7973070833333333 	0.7874732708333334 	0.7973070833333333 	0.7874732708333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9133333333333333 	0.9133333333333333 	0.7891505833333334 	0.7789586458333334 	0.7891505833333334 	0.7789586458333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9176666666666666 	0.9176666666666666 	0.7854408124999999 	0.7691819791666665 	0.7854408124999999 	0.7691819791666665 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9093333333333333 	0.9093333333333333 	0.7887753333333333 	0.7744990208333333 	0.7887753333333333 	0.7744990208333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9101666666666667 	0.9101666666666667 	0.8019120833333333 	0.7797593333333335 	0.8019120833333333 	0.7797593333333335 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9131666666666667 	0.9131666666666667 	0.7802758750000001 	0.7671469583333334 	0.7802758750000001 	0.7671469583333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.9131666666666667 	0.9131666666666667 	0.7802757291666667 	0.7671468750000001 	0.7802757291666667 	0.7671468750000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0574 	0.0574 	0.46621698375 	0.46738431375 	0.46621698375 	0.46738431375 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0624 	0.0624 	0.476817543125 	0.47847044874999994 	0.476817543125 	0.47847044874999994 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0624 	0.0624 	0.494789304375 	0.483401548125 	0.494789304375 	0.483401548125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0649 	0.0649 	0.50429136625 	0.4899202625 	0.50429136625 	0.4899202625 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0642 	0.0642 	0.5058608706250001 	0.4951100575 	0.5058608706250001 	0.4951100575 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0743 	0.0743 	0.5125782006249999 	0.5078428268749999 	0.5125782006249999 	0.5078428268749999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0756 	0.0756 	0.510098074375 	0.50909075875 	0.510098074375 	0.50909075875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0781 	0.0781 	0.506722289375 	0.5092154275 	0.506722289375 	0.5092154275 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0808 	0.0808 	0.5110340225000001 	0.51094511 	0.5110340225000001 	0.51094511 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0741 	0.0741 	0.50132262125 	0.5058232231249999 	0.50132262125 	0.5058232231249999 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0776 	0.0776 	0.508667830625 	0.515286886875 	0.508667830625 	0.515286886875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0783 	0.0783 	0.5066084925 	0.51983565875 	0.5066084925 	0.51983565875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.0783 	0.0783 	0.5066084750000001 	0.519835678125 	0.5066084750000001 	0.519835678125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.085 	0.085 	0.5195156875 	0.530539875 	0.5195156875 	0.530539875 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.085 	0.085 	0.5195159375 	0.530539125 	0.5195159375 	0.530539125 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.472 	0.472 	0.5906084444444444 	0.599959 	0.5906084444444444 	0.599959 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.4836 	0.4836 	0.6057500611111112 	0.6134188333333334 	0.6057500611111112 	0.6134188333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.5 	0.5 	0.6039323888888889 	0.6140619444444444 	0.6039323888888889 	0.6140619444444444 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.19 	0.19 	0.5260749444444444 	0.5263275000000001 	0.5260749444444444 	0.5263275000000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.242 	0.242 	0.5129343333333334 	0.5144642222222223 	0.5129343333333334 	0.5144642222222223 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.245 	0.245 	0.5176625 	0.5179128333333334 	0.5176625 	0.5179128333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.289 	0.289 	0.5315245555555556 	0.5328825555555555 	0.5315245555555556 	0.5328825555555555 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.33 	0.33 	0.5400245555555556 	0.5388914444444444 	0.5400245555555556 	0.5388914444444444 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.334 	0.334 	0.5440194444444444 	0.5448922222222222 	0.5440194444444444 	0.5448922222222222 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.39 	0.39 	0.5481203333333333 	0.5504785000000001 	0.5481203333333333 	0.5504785000000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.392 	0.392 	0.5547368888888888 	0.5552218333333333 	0.5547368888888888 	0.5552218333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.417 	0.417 	0.5617405 	0.5618830555555556 	0.5617405 	0.5618830555555556 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.426 	0.426 	0.5671438888888889 	0.5749478333333333 	0.5671438888888889 	0.5749478333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.426 	0.426 	0.5736833333333333 	0.5798703333333334 	0.5736833333333333 	0.5798703333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.449 	0.449 	0.5900187777777778 	0.6001683333333334 	0.5900187777777778 	0.6001683333333334 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.447 	0.447 	0.597342111111111 	0.604014888888889 	0.597342111111111 	0.604014888888889 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.447 	0.447 	0.5973420555555555 	0.6040147222222222 	0.5973420555555555 	0.6040147222222222 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.159 	0.159 	0.5131001666666667 	0.5107684444444445 	0.5131001666666667 	0.5107684444444445 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.207 	0.207 	0.5305963888888889 	0.5315070000000001 	0.5305963888888889 	0.5315070000000001 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.279 	0.279 	0.5386425555555556 	0.535543 	0.5386425555555556 	0.535543 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.311 	0.311 	0.5300006666666667 	0.5247258333333333 	0.5300006666666667 	0.5247258333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.314 	0.314 	0.5397585 	0.5364335 	0.5397585 	0.5364335 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.332 	0.332 	0.5381643888888888 	0.535962 	0.5381643888888888 	0.535962 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.392 	0.392 	0.565345 	0.5648484444444445 	0.565345 	0.5648484444444445 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.408 	0.408 	0.5593863333333333 	0.5608342777777778 	0.5593863333333333 	0.5608342777777778 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.454 	0.454 	0.5720241666666667 	0.5789373888888889 	0.5720241666666667 	0.5789373888888889 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.477 	0.477 	0.5877643333333333 	0.5917937777777779 	0.5877643333333333 	0.5917937777777779 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.481 	0.481 	0.5968616111111111 	0.6063088888888889 	0.5968616111111111 	0.6063088888888889 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.481 	0.481 	0.5968616111111111 	0.6063089444444445 	0.5968616111111111 	0.6063089444444445 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.201 	0.201 	0.5215124444444444 	0.521501 	0.5215124444444444 	0.521501 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.339 	0.339 	0.5643377777777778 	0.5542083333333333 	0.5643377777777778 	0.5542083333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.379 	0.379 	0.5832743888888889 	0.5742084444444444 	0.5832743888888889 	0.5742084444444444 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.44 	0.44 	0.6122260555555555 	0.6029903333333333 	0.6122260555555555 	0.6029903333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.475 	0.475 	0.6065952777777778 	0.5889460555555556 	0.6065952777777778 	0.5889460555555556 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.484 	0.484 	0.6269093333333333 	0.6115437777777778 	0.6269093333333333 	0.6115437777777778 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.505 	0.505 	0.6371095555555555 	0.6197498333333333 	0.6371095555555555 	0.6197498333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.531 	0.531 	0.6383958333333334 	0.6190212777777777 	0.6383958333333334 	0.6190212777777777 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.513 	0.513 	0.6244006666666667 	0.6080413333333333 	0.6244006666666667 	0.6080413333333333 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.532 	0.532 	0.6354345555555556 	0.6160534444444444 	0.6354345555555556 	0.6160534444444444 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.535 	0.535 	0.6331859444444444 	0.608086 	0.6331859444444444 	0.608086 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.539 	0.539 	0.6273599999999999 	0.6010244444444445 	0.6273599999999999 	0.6010244444444445 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.554 	0.554 	0.6399101111111111 	0.6151417222222222 	0.6399101111111111 	0.6151417222222222 
+Accuracy c (latent) 	  Accuracy cc  	  AUC    	 AUC  (latent)     	 AUC  prob (latent) 
+0.554 	0.554 	0.6399102222222223 	0.6151420000000001 	0.6399102222222223 	0.6151420000000001 

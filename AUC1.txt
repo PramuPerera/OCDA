@@ -1,0 +1,85 @@
+
+AUC 1 indictaor
+Input MNIST
+
+mnist	justsource	0	mnist_to_svhn_justsource	0.9468735010633965
+mnist	justsource	0	mnist_to_svhn_justsource	0.9468735010633965
+mnist	justsource	0	mnist_to_svhn_justsource	0.9468735010633965
+mnist	justsource	4	mnist_to_svhn_justsource	0.5079093905422918
+mnist	justsource	5	mnist_to_svhn_justsource	0.45316417243206086
+mnist	justsource	6	mnist_to_svhn_justsource	0.6753249391958382
+mnist	justsource	7	mnist_to_svhn_justsource	0.20707652298287277
+mnist	justsource	8	mnist_to_svhn_justsource	0.6017583927062635
+mnist	justsource	9	mnist_to_svhn_justsource	0.4158071186482155
+mnist	dd	0	mnist_to_svhn_dd	0.9316023349472827
+mnist	dd	1	mnist_to_svhn_dd	0.5507662415428689
+mnist	dd	2	mnist_to_svhn_dd	0.28680041957969415
+mnist	dd	3	mnist_to_svhn_dd	0.1678309232480534
+mnist	dd	4	mnist_to_svhn_dd	0.5980412449597298
+mnist	dd	5	mnist_to_svhn_dd	0.13137418245626475
+mnist	dd	6	mnist_to_svhn_dd	0.5228380986156461
+mnist	dd	7	mnist_to_svhn_dd	0.14155854096879006
+mnist	dd	8	mnist_to_svhn_dd	0.559078928270645
+mnist	dd	9	mnist_to_svhn_dd	0.36689580231040425
+svhn	justsource	0	svhn_to_mnist_justsource	0.6883924046336938
+svhn	justsource	1	svhn_to_mnist_justsource	0.7479331430090616
+svhn	justsource	2	svhn_to_mnist_justsource	0.2881127946739138
+svhn	justsource	3	svhn_to_mnist_justsource	0.23645954250597473
+svhn	justsource	4	svhn_to_mnist_justsource	0.8729509751711785
+svhn	justsource	5	svhn_to_mnist_justsource	0.23278099280975084
+svhn	justsource	6	svhn_to_mnist_justsource	0.5916982635892165
+svhn	justsource	7	svhn_to_mnist_justsource	0.5325435292852299
+svhn	justsource	8	svhn_to_mnist_justsource	0.578143292182156
+svhn	justsource	9	svhn_to_mnist_justsource	0.6390517816572217
+svhn	dd	0	svhn_to_mnist_dd	0.5101514774424183
+svhn	dd	1	svhn_to_mnist_dd	0.3898063711422687
+svhn	dd	2	svhn_to_mnist_dd	0.48542881148476236
+svhn	dd	3	svhn_to_mnist_dd	0.19562649368385115
+svhn	dd	4	svhn_to_mnist_dd	0.5895195352675504
+
+
+Input SVHN
+
+
+mnist	justsource	0	mnist_to_svhn_justsource	0.5014658057816901
+mnist	justsource	4	mnist_to_svhn_justsource	0.5051678035213979
+mnist	justsource	5	mnist_to_svhn_justsource	0.5234634237695371
+mnist	justsource	6	mnist_to_svhn_justsource	0.47991435913335934
+mnist	justsource	7	mnist_to_svhn_justsource	0.47369784655401803
+mnist	justsource	8	mnist_to_svhn_justsource	0.4902067155871146
+mnist	justsource	9	mnist_to_svhn_justsource	0.502585049162949
+mnist	dd	0	mnist_to_svhn_dd	0.5477769489746891
+mnist	dd	1	mnist_to_svhn_dd	0.5852312433376776
+mnist	dd	2	mnist_to_svhn_dd	0.4189756139398504
+mnist	dd	3	mnist_to_svhn_dd	0.45768279467552386
+mnist	dd	4	mnist_to_svhn_dd	0.5116119163814562
+mnist	dd	5	mnist_to_svhn_dd	0.4228213107114639
+mnist	dd	6	mnist_to_svhn_dd	0.5913953827990925
+mnist	dd	7	mnist_to_svhn_dd	0.49355294939197025
+mnist	dd	8	mnist_to_svhn_dd	0.5342022447248373
+mnist	dd	9	mnist_to_svhn_dd	0.52869011390431
+svhn	justsource	0	svhn_to_mnist_justsource	0.8258023840065997
+svhn	justsource	1	svhn_to_mnist_justsource	0.3465408229528465
+svhn	justsource	2	svhn_to_mnist_justsource	0.3592407239680755
+svhn	justsource	3	svhn_to_mnist_justsource	0.42515771534946184
+svhn	justsource	4	svhn_to_mnist_justsource	0.5327061897024048
+svhn	justsource	5	svhn_to_mnist_justsource	0.3735789464012451
+svhn	justsource	6	svhn_to_mnist_justsource	0.596374488282259
+svhn	justsource	7	svhn_to_mnist_justsource	0.6163025405980049
+svhn	justsource	8	svhn_to_mnist_justsource	0.6170861189712072
+svhn	justsource	9	svhn_to_mnist_justsource	0.6465003797751059
+svhn	dd	0	svhn_to_mnist_dd	0.7672402807177781
+svhn	dd	1	svhn_to_mnist_dd	0.6264293225445593
+svhn	dd	2	svhn_to_mnist_dd	0.4658413942630347
+svhn	dd	3	svhn_to_mnist_dd	0.38292763754472164
+svhn	dd	4	svhn_to_mnist_dd	0.5368592023695498
+
+
+
+
+AUC all indicators
+
+------------------
+
+
+
