@@ -153,7 +153,7 @@ def octrain(hyper_para):
                x_train_task = x_train[y_train.flatten() == single_class_ind]
                x_train_task2 = x_train2[y_train2.flatten() == single_class_ind]
                x_train_task2 = x_train_task2[0: hyper_para.target_n]
-               x_train_task = x_train_task[0: 20]#hyper_para.target_n]
+               #x_train_task = x_train_task[0: 20]#hyper_para.target_n]
                x_test = x_train_task[int(len(x_train_task)*0.8):]
                x_train_task = x_train_task[0:int(len(x_train_task)*0.8)]
                x_test2 = x_train_task2[int(len(x_train_task2)*0.8):]
@@ -433,7 +433,7 @@ def octest0(hyper_para):
     fpr, tpr, thresholds = metrics.roc_curve(glabels, scores)
     AUC = metrics.auc(fpr, tpr)
     print('AUROC: ' + str(AUC) )
-    file1 = open("AUC.txt","a")#append mode 
+    file1 = open(hyper_para.source+ "_"+hyper_para.source+ "_"+ hyper_para.method +"txt","a")#append mode 
     file1.write(hyper_para.source+ "\t"+ hyper_para.method +"\t"+ str(hyper_para.inclass[0])+"\t"+ hyper_para.experiment_name+"\t"+str(AUC)+"\n") 
     file1.close() 
 

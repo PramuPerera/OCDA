@@ -118,7 +118,7 @@ def load_mnist():
     return (X_train, y_train), (X_test, y_test)
 
 def load_amazon():
-    (X_train, y_train) = getDataNoCrop('data/office/amazon/images', range(31))
+    (X_train, y_train) = getDataNoCrop('../src/data/office/amazon/images', range(31))
     X_train = normalize_minus1_1(cast_to_floatx(X_train))
     X_test = X_train[int(0.8*len(X_train)):]
     X_train = X_train[0:int(0.8*len(X_train))]
@@ -129,7 +129,7 @@ def load_amazon():
 
 
 def load_dslr():
-    (X_train, y_train) = getDataNoCrop('data/office/dslr/images', range(31))
+    (X_train, y_train) = getDataNoCrop('../src/data/office/dslr/images', range(31))
     X_train = normalize_minus1_1(cast_to_floatx(X_train))
     X_test = X_train[int(0.8*len(X_train)):]
     X_train = X_train[0:int(0.8*len(X_train))]
