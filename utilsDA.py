@@ -153,7 +153,6 @@ def octrain(hyper_para):
                x_train_task = x_train[y_train.flatten() == single_class_ind]
                x_train_task2 = x_train2[y_train2.flatten() == single_class_ind]
                x_train_task2 = x_train_task2[0: hyper_para.target_n]
-               #x_train_task = x_train_task[0: 20]#hyper_para.target_n]
                x_test = x_train_task[int(len(x_train_task)*0.8):]
                x_train_task = x_train_task[0:int(len(x_train_task)*0.8)]
                x_test2 = x_train_task2[int(len(x_train_task2)*0.8):]
@@ -238,7 +237,7 @@ def octrain(hyper_para):
                     optimizer_c.zero_grad()
                     loss_d = nnfunc.binary_cross_entropy_with_logits(d.squeeze(), dlbls.float())  
                     loss_cc = ce_criterion(act, labels)
-                    loss = loss_cc + loss_d
+                    loss = loss_cc + loss_d*10.0
                     loss.backward()
                     optimizer_c.step()
                     optimizer_D.step()
@@ -446,7 +445,7 @@ def octest0(hyper_para):
     elif hyper_para.target == 'svhn':
                (x_train, y_train), (x_test, y_test) = load_svhn()
     elif hyper_para.target == 'amazon':
-               (x_train, y_train), (sx_test, y_test) = load_amazon()
+               (x_train, y_train), (x_test, y_test) = load_amazon()
     elif hyper_para.target == 'dslr':
                (x_train, y_train), (x_test, y_test) = load_dslr()
     transformer = Transformer(8, 8)

@@ -72,7 +72,7 @@ def main():
     #hyper_para.C = C
     #Res = os_test_ens(None,hyper_para,None,True)
 
-
+    random.seed(manualSeed)
     np.random.seed(manualSeed)
     torch.manual_seed(manualSeed)
     torch.cuda.manual_seed_all(manualSeed)

@@ -54,10 +54,7 @@ def getData(PATH, cnames):
                 # preprocessing if required
                 x_test.append(np.array(x))
                 y_test.append(idx)
-    idx = np.random.permutation(len(y_test))
-    y_test = y_test[idx]
-    x_test = x_test[idx]	
-    # finally converting list into numpy array
+
     return (np.array(x_train), np.array(y_train)), (np.array(x_test), np.array(y_test))
 
 
@@ -111,7 +108,7 @@ def load_mnist():
 
 
 def load_mnist():
-    (X_train, y_train), (X_test, y_test) = getData('MNIST', [0,1,2,3,4,5,6,7,8,9])
+    (X_train, y_train), (X_test, y_test) = getData('../src/MNIST', [0,1,2,3,4,5,6,7,8,9])
     X_train = normalize_minus1_1(cast_to_floatx(X_train))
     X_test = normalize_minus1_1(cast_to_floatx(X_test))
     print([len(X_train),len(X_test)])
